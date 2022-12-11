@@ -22,6 +22,7 @@
 /* SM Includes */
 #include <sourcemod>
 #include <sdktools>
+#include <sdktools_gamerules>
 #include <smac>
 #include <colors>
 

@@ -22,6 +22,7 @@
 #endif
 #define _smac_included
 
+#include <sdktools_gamerules>
 #include <smac_stocks>
 
 /* Globals */
