@@ -231,7 +231,7 @@ stock CvarAction GetCActionInt(const char[] sAction)
     return Action_Invalid;
 }
 
-stock void GetCActionString(CvarAction CAction, char[] sAction,int iSize)
+stock void GetCActionString(CvarAction CCompType, char[] sAction,int iSize)
 {
     switch (CCompType)
     {
